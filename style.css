@@ -1,0 +1,29 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+.information{
+    display:flex;
+    gap:75px;
+    list-style: none;
+    font-size: 18px;
+}
+.title h1{
+    display:flex;
+    justify-content: center;
+}
+.symbole{
+    padding-left: 100px;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+}
+.image{
+    padding-right: 100px;
+    font-size: 35px;
+    display:flex;
+    align-items: center;
+}
+h1{
+    font-size: 60px;
+}

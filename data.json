@@ -1,0 +1,86 @@
+{
+    "journal": {
+      "nomJournal": "Sport World News",
+      "phraseAccroche": "Votre source d'informations sur l'actualité sportive mondiale",
+      "texteAppelAction": "Inscrivez-vous pour recevoir notre newsletter et ne manquer aucun événement sportif !",
+      "articlePrincipal": {
+        "titre": "Les faits saillants du week-end sportif : les moments forts à retenir",
+        "description": "Revivez les moments marquants des derniers événements sportifs à travers le monde.",
+        "date": "25 Avril 2024",
+        "theme": "Actualités sportives",
+        "image":""
+      },
+      "articles": [
+        {
+          "titre": "Analyse : les enjeux de la saison à venir dans les principales ligues de football",
+          "date": "20 Avril 2024",
+          "theme": "Football",
+          "image":""
+        },
+        {
+          "titre": "Entretien exclusif avec une légende du tennis sur son parcours et son héritage",
+          "date": "15 Avril 2024",
+          "theme": "Tennis",
+          "image":""
+        },
+        {
+          "titre": "Top 10 des moments les plus mémorables de l'histoire des Jeux Olympiques",
+          "date": "5 Avril 2024",
+          "theme": "Jeux Olympiques",
+          "image":""
+        },
+        {
+          "titre": "Les dernières nouvelles et rumeurs sur les transferts dans le monde du basketball",
+          "date": "28 Mars 2024",
+          "theme": "Basketball",
+          "image":""
+        },
+        {
+          "titre": "Les prochains grands événements sportifs à ne pas manquer",
+          "date": "20 Mars 2024",
+          "theme": "Événements",
+          "image":""
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Football",
+          "description": "Couverture complète des ligues de football les plus importantes, y compris les analyses, les résultats et les actualités des transferts."
+        },
+        {
+          "nom": "Tennis",
+          "description": "Actualités, résultats et analyses du monde du tennis, y compris les tournois majeurs et les performances des joueurs."
+        },
+        {
+          "nom": "Jeux Olympiques",
+          "description": "Suivi des Jeux Olympiques, des athlètes, des médailles et des moments les plus marquants de l'histoire et de l'actualité des Jeux."
+        },
+        {
+          "nom": "Basketball",
+          "description": "Actualités et analyses des ligues de basketball professionnelles, des équipes, des joueurs et des matchs à ne pas manquer."
+        },
+        {
+          "nom": "Événements",
+          "description": "Aperçu des prochains grands événements sportifs à l'échelle mondiale, des championnats aux tournois, avec des informations sur les dates, les lieux et les enjeux."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Alexandre",
+          "typeExperience": "Journaliste sportif",
+          "presentation": "En tant que passionné de sport, je vous offre une couverture complète et diversifiée de l'actualité sportive, avec des analyses approfondies et des interviews exclusives."
+        },
+        {
+          "prenom": "Marie",
+          "typeExperience": "Expert en tennis",
+          "presentation": "Avec une expérience dans le tennis professionnel, je vous apporte les dernières nouvelles, les analyses et les coulisses de ce sport passionnant."
+        },
+        {
+          "prenom": "Lucas",
+          "typeExperience": "Chroniqueur basketball",
+          "presentation": "En tant que chroniqueur spécialisé en basketball, je vous tiens informé des dernières tendances, des transferts et des performances des équipes et des joueurs."
+        }
+      ]
+    }
+  }
+  
