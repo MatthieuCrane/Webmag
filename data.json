@@ -8,38 +8,38 @@
         "description": "Revivez les moments marquants des derniers événements sportifs à travers le monde.",
         "date": "25 Avril 2024",
         "theme": "Actualités sportives",
-        "image":""
+        "image":"JO.jpg"
       },
       "articles": [
         {
           "titre": "Analyse : les enjeux de la saison à venir dans les principales ligues de football",
           "date": "20 Avril 2024",
           "theme": "Football",
-          "image":""
+          "image":"ldc.jpg"
         },
         {
           "titre": "Entretien exclusif avec une légende du tennis sur son parcours et son héritage",
           "date": "15 Avril 2024",
           "theme": "Tennis",
-          "image":""
+          "image":"bigfour.jpg"
         },
         {
           "titre": "Top 10 des moments les plus mémorables de l'histoire des Jeux Olympiques",
           "date": "5 Avril 2024",
           "theme": "Jeux Olympiques",
-          "image":""
+          "image":"mohfarah.png"
         },
         {
           "titre": "Les dernières nouvelles et rumeurs sur les transferts dans le monde du basketball",
           "date": "28 Mars 2024",
           "theme": "Basketball",
-          "image":""
+          "image":"kyrieirving.webp"
         },
         {
           "titre": "Les prochains grands événements sportifs à ne pas manquer",
           "date": "20 Mars 2024",
           "theme": "Événements",
-          "image":""
+          "image":"eliudkipchoge.jpg"
         }
       ],
       "themes": [
